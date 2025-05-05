@@ -1,0 +1,1 @@
+# snu-lighthouse-report
